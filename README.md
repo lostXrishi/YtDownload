@@ -1,7 +1,7 @@
 <!-- YtDownload -->
 
 <p align="center">
-  <img src="resource\logo.png">
+  <img src="logo.png">
 </p>
 
 
@@ -42,12 +42,8 @@ Every little shadow counts. 🕶️</i>
 ### Find me on:
 
 <p align="left">
-  <a href="https://www.facebook.com/" target="fb"><img src="resource\fb.png" width="40" height="40"></a> <a href="https://www.facebook.com/">Facebook</a>
-</p>
-<p align="left">
-  <a href="https://www.instagram.com/" target="ig"><img src="resource\ig.png" width="40" height="40"></a> <a href="https://www.instagram.com/">Instagram</a>
-</p>
-<p align="left">
-  <a href="https://www.linkedin.com/" target="ld"><img src="resource\ld.png" width="40" height="40"></a> <a href="https://www.linkedin.com/">Linkedin</a>
+  <a href="https://www.facebook.com/" target="fb"><img src="resource\fb.png" width="40" height="40"></a> <a href="https://www.facebook.com/"></a>
+  <a href="https://www.instagram.com/" target="ig"><img src="resource\ig.png" width="40" height="40"></a> <a href="https://www.instagram.com/"></a>
+  <a href="https://www.linkedin.com/" target="ld"><img src="resource\ld.png" width="40" height="40"></a> <a href="https://www.linkedin.com/"></a>
 </p>
 

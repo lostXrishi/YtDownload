@@ -1,0 +1,4 @@
+yt_dlp
+tqdm
+rich
+time
